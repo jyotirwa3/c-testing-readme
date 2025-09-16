@@ -4,4 +4,4 @@
 <img src="output/program1.png" alt="program1" />
 
 ## program 2
-[!program2](output/program2.png)
+![program2](output/program2.png)
